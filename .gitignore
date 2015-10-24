@@ -1,0 +1,6 @@
+# build directory
+/build
+/source/.qmake.stash
+/source/Makefile
+
+
